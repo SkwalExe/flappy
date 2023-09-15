@@ -30,7 +30,7 @@ def main():
             case "-h" | "--help":
                 bar = f"{PURPLE}━━━━━━━━━━━━━━━━━{RESET}"
                 print()
-                print(f"{BG_PURPLE} Flap python {RESET}")
+                print(f"{BG_PURPLE} Flappy {RESET}")
                 print(bar)
                 print(f"Author: {PURPLE}SkwalExe <Leopold Koprivnik>{RESET}")
                 print(f"Github: {PURPLE}https://github.com/SkwalExe{RESET}")
@@ -56,7 +56,7 @@ def main():
                 quit(0)
 
             case "-v" | "--version":
-                print(f"{BG_PURPLE} Pong Python {RESET}")
+                print(f"{BG_PURPLE} Flappy {RESET}")
                 print(f"Version: {PURPLE}{VERSION}{RESET}")
                 quit(0)
             case "-c" | "--cursor":

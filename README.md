@@ -1,6 +1,20 @@
-# Flap-python 🐤
 
-This is a simple flappy bird game made with Python that you can play in your terminal.
+<p align="center">
+  <img src="assets/logo.png">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/SkwalExe/flappy?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/SkwalExe/flappy?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/SkwalExe/flappy?color=blueviolet&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/SkwalExe/flappy?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-pr/SkwalExe/flappy?color=tomato&style=for-the-badge">
+
+</p>
+
+<p align="center">💠 This is a simple flappy bird game that you can play in your terminal. 💠</p>
+
+# Flappy 🐤
 
 ![demo](assets/demo.gif)
 
@@ -9,8 +23,8 @@ This is a simple flappy bird game made with Python that you can play in your ter
 First, clone this repository and `cd` into it:
 
 ```bash
-git clone https://github.com/SkwalExe/flap-python.git
-cd flap-python
+git clone https://github.com/SkwalExe/flappy.git
+cd flappy
 ```
 
 Then, install the dependencies:
